@@ -1,0 +1,2 @@
+# moikka.py
+Koodausharjoittelu
